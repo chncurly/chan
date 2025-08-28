@@ -70,7 +70,7 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
+        <a href="https://www.mysql.com/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="React" width="50" height="50"/>
         </a>
         <br>MySql
@@ -110,7 +110,7 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
+        <a href="https://nodejs.org/en" style="color: white;">
           <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="React" width="50" height="50"/>
         </a>
         <br>Nodejs
