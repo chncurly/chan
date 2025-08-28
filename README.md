@@ -1,6 +1,6 @@
 <h1 align="center">💫 About Me:
-<p></p>
 </h1>
+🔭 I’m currently Working as a OJT at <a href="https://www.facebook.com/dakilasoft">Dakila Soft</a>
 
 <h1 align="center">📈 My GitHub stats: </h1>
 <div class="badges-githubstats">
@@ -89,7 +89,7 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
+        <a href="https://php.net/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="React" width="50" height="50"/>
         </a>
         <br>C++
