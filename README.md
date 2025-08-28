@@ -36,7 +36,7 @@
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
+        <a href="https://www.python.org/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="jQuery"/>
         </a>
         <br>Pyhton
