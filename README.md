@@ -89,7 +89,7 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://php.net/" style="color: white;">
+        <a href="https://www.w3schools.com/cpp/cpp_intro.asp" style="color: white;">
           <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="React" width="50" height="50"/>
         </a>
         <br>C++
