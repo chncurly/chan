@@ -10,7 +10,7 @@
   </p>
 </div>
 
-<h1 align="center">🌐 Socials Accs:
+<h1 align="center">🌐 Connect with me: 
 <p align="center">
   <a href="https://fb.com/chcncurly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chcncurly" height="30" width="40" /></a>
   <a href="https://instagram.com/chncurly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chncurly" height="30" width="40" /></a>
