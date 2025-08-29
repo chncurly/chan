@@ -1,7 +1,5 @@
-<h1 align="center">💫 About Me:
-</h1>
 🔭 I’m currently Working as a OJT at <a href="https://www.facebook.com/dakilasoft">Dakila Soft</a>
-
+<h1></h1>
 <h1 align="center">📈 My GitHub stats: </h1>
 <div class="badges-githubstats">
   <p align="center">
