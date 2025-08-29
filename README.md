@@ -3,7 +3,7 @@
 <h1 align="center">📈 My GitHub stats: </h1>
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chncurly&theme=dark&hide_border=false&include_all_commits=false&count_private=false5">
+    <img src="https://github-readme-stats.vercel.app/api?username=chncurly&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
     <img src="https://nirzak-streak-stats.vercel.app/?user=chncurly&theme=dark&hide_border=false">
   </p>
 </div>
@@ -116,3 +116,6 @@
   </tbody>
 </table>
 </div>
+
+
+
